@@ -1,6 +1,4 @@
 from ortools.linear_solver import pywraplp
-from sys import stdout
-from unittest.mock import sentinel
 from tqdm import tqdm
 
 """

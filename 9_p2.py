@@ -1,8 +1,4 @@
-from functools import lru_cache
-
 from tqdm import tqdm
-
-from Ranges import Range, RangeSet
 
 with open("input.txt", "r") as file:
     input = file.read().split("\n")

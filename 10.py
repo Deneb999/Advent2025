@@ -1,6 +1,5 @@
 from functools import lru_cache
 from math import inf
-from unittest.mock import sentinel
 
 from tqdm import tqdm
 

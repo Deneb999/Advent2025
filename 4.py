@@ -1,5 +1,3 @@
-from functools import total_ordering
-
 with open("input.txt", "r") as f:
     input = f.read().split("\n")
 

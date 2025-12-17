@@ -1,4 +1,3 @@
-from itertools import product
 from math import sqrt, prod
 from tqdm import tqdm
 
